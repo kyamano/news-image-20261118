@@ -25,9 +25,14 @@ images as a careful picture editor, in this order:
   and Trump's arrival in China ahead of the first-ever trilateral
   summit — carried by every wire that day. Flags + names make the
   three leaders recognisable without photos (which we may not copy).
-- **Breadth**: 8 stories, 6 regions, 5 fields — diplomacy (Asia),
-  war (Europe, Middle East x2), US politics, public health, weather
-  (South Asia), space science.
+- **Breadth (v2)**: 30 stories — 10 in depth plus 20 one-line briefs —
+  across six continents and diplomacy, war, politics, climate,
+  business/tech, health, weather, disaster, sport/culture and space.
+  v1's 8-story layout was legible but sparse next to the leading
+  entries' 30-45 stories, so v2 keeps v1's big date and bold
+  headlines while matching their density: numbered panels 1-10 and
+  a two-column "Also on Wednesday" index (11-30) with a regional
+  tally in its header.
 - **Faithfulness**: every claim was checked in at least two
   independent outlets on 18 Nov 2026 before being drawn; claims are
   worded as reported ("Zelenskyy confirms the strike partially
